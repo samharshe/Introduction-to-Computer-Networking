@@ -1,0 +1,2 @@
+# Stanford CS144: Introduction to Computer Networking
+Following my CS syllabus for the summer, I am watching the lectures for Stanford's ICN. I think that understanding better how the internet works will give me the context to be a more thoughtful analyst of much of modern technology in general.
